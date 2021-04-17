@@ -157,7 +157,7 @@ var cnames_active = {
   "anime": "meguminsama.github.io/anime",
   "animegan": "tonylianlong.github.io/AnimeGAN.js",
   "animo": "thrivingkings.github.io/animo",
-  "animorph": "claudiobmgrtnr.github.io/animorph",
+  "animorh": "claudiobmgrtnr.github.io/animorph",
   "anna": "anna-wro.github.io/anna",
   "annotate": "taitems.github.io/web-pdf-annotation", // noCF? (don´t add this in a new PR)
   "annoyingmouse": "annoyingmouse.github.io", // noCF? (don´t add this in a new PR)
@@ -1938,6 +1938,7 @@ var cnames_active = {
   "pwa-workshop": "sylvainpolletvillard.github.io/pwa-workshop",
   "pwapp": "nikiforov-org.github.io/pwapp",
   "pzero": "hanyaku.github.io/ProjectZERO",
+  "plotyxd": "plotyxd.github.io",
   "qbit": "fudan-mse.github.io/qbit",
   "qbsz": "qbsz.github.io",
   "qs": "kirjs.github.io/qs.js", // noCF? (don´t add this in a new PR)
